@@ -29,10 +29,6 @@ chapters/23.txt
 chapters/24.txt
 chapters/25.txt
 chapters/26.txt
-years/1988.txt
-chapters/27.txt
-chapters/28.txt
-chapters/29.txt
 years/1989.txt
 chapters/30.txt
 chapters/31.txt
